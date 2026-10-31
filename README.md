@@ -1,7 +1,4 @@
-# Codechef-solutions
-My accepted solutions and implementations for CodeChef problems in C++.
 # CodeChef Solutions
-
 My accepted solutions for competitive programming problems on **CodeChef**, written in **C++**.
 
 ## Progress
