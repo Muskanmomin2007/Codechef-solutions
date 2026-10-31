@@ -6,10 +6,7 @@ My accepted solutions for competitive programming problems on **CodeChef**, writ
 - **Language:** C++
 
 ## Folder Structure
-- `500-800/` – Beginner logic and basic math problems
-- `800-1000/` – Intermediate practice
+- `500-800` – Beginner logic and basic math problems
+- `800-1000` – Intermediate practice
 
-## How to Run (C++)
-```bash
-g++ solution.cpp -o solution
-./solution
+
